@@ -1,0 +1,8 @@
+{
+  "name": "BizBook - Business Booking & QR Code Manager",
+  "description": "Multi-tenant online booking URL & QR code generator and booking availability management with real-time updates and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
